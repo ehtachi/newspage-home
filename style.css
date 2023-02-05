@@ -15,7 +15,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem;
+    padding: 4rem 4rem 2rem 4rem;
 }
 
 .logo{
@@ -249,10 +249,10 @@ button:hover{
         display: flex;
         justify-content: space-between;
         align-items: center;
-        /* padding-left: 2rem; */
     }
 
     .nav-list ul{
+        top: 3rem;
         right: 0;
         position: absolute;
         /* border: 2px solid red; */
